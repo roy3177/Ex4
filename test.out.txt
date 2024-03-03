@@ -1,0 +1,2 @@
+GUIShape,16777217,true,1,Circle_2D:,(3.0,4.0),2.0
+GUIShape,16776962,false,2,Circle_2D:,(6.0,8.0),4.0

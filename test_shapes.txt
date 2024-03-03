@@ -1,0 +1,3 @@
+GUIShape,16777217,false,0,Circle_2D:(1.0,1.0),2.0
+GUIShape,16776962,true,0,Rect_2D@742ff096
+GUIShape,16776962,true,0,Triangle_2D@75437611
